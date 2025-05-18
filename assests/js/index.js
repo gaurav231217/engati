@@ -6,7 +6,7 @@ document.getElementById("facebook").style.display="none";
 document.getElementById("instagram").style.display="none";
 }
  var rcs=()=>{ 
-    document.getElementById("s").style.display="flex";
+    document.getElementById("rcs").style.display="flex";
     document.getElementById("tabs1").style.backgroundColor="hsl(210, 14%, 89%)";  
     document.getElementById("whatsapp").style.display="none";
     document.getElementById("facebook").style.display="none";
