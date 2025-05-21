@@ -33,7 +33,8 @@ margin-top: 20px;
 }
 .but{
 background-color: #c42d3e; 
-color: red; 
+color: #ff0000; 
+font-size: 1px;
 padding: 16px 20px; 
 border: none;
  border-radius: 5px; 
