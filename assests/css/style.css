@@ -8,7 +8,12 @@
 html,body{
 overflow-x:hidden;
 max-width: 100%;
+}
+kc nm ,kofm
 
+
+.gjgjgj{
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .engati-head{
@@ -20,9 +25,9 @@ margin:0px;
 }  
 
 .engati-head{
-font-size:80px;
+font-size:79px;
+padding-right:16%;
 padding-left:20%;
-padding-right:18%;
 padding-bottom:30px;
 margin:0px;
 }  
@@ -35,7 +40,8 @@ margin-top: 20px;
 }
 .but{
 background-color: #c42d3e; 
-color: white; 
+color: #ff0000; 
+font-size: 1px;
 padding: 16px 20px; 
 border: none;
  border-radius: 5px; 
@@ -145,7 +151,7 @@ background-color: #f7f8fa;
 .deploy{
 padding-left: 28%;
 padding-right: 28%;
-color: #86868b;
+color: #8b868a;
 text-align: center;
 font-size: 18px;
 
